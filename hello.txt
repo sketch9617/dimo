@@ -1,5 +1,5 @@
 hello git
-version1 update
+iversion1 update
 version2 update
 version3 update
 version4 update
@@ -12,4 +12,8 @@ dev modified here!
 master confilict test
 dev conflict test
 你好
+
 我很好
+
+
+政委很好
